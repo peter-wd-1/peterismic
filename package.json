@@ -1,0 +1,9 @@
+{
+  "name": "peterismic",
+  "version": "1.0.0",
+  "description": "This is my first page for project:peterismic",
+  "main": "index.js",
+  "repository": "https://github.com/peter-wd-1/peterismic.git",
+  "author": "Peter",
+  "license": "MIT"
+}
